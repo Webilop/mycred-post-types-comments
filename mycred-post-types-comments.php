@@ -18,6 +18,16 @@
 $textdomain = 'mycred-post-type-comments';
 
 /**
+* Stop plugin activation if mycred is not active
+*/
+function mycredptc_activate() {
+  if (!is_plugin_active('mycred/mycred.php')) {
+    exit("Plugin myCRED is required by myCRED Post Type Comments");
+  }
+}
+register_activation_hook( __FILE__, 'mycredptc_activate');
+
+/**
 * Function to create class for mycred_post_type_comments hooks.
 * must be in mycred_init action to avoid php error
 */
