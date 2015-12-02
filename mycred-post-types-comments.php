@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: myCRED Post Type Comments
+ * Plugin Name: Post Type Comments for myCRED
  * Plugin URI:
  * Description: Add different amount of points for comments to different post types.
  * Tags: points, mycred, comments, custom post types, reward

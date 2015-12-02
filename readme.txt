@@ -1,4 +1,4 @@
-=== myCRED Post Type Comments ===
+=== Post Type Comments for myCRED ===
 Tags: points, mycred, comments, custom post types, reward
 Requires at least: 3.8
 Tested up to: 4.3
