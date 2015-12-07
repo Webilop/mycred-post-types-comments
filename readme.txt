@@ -1,4 +1,5 @@
 === Post Type Comments for myCRED ===
+Contributors: webilop
 Tags: points, mycred, comments, custom post types, reward
 Requires at least: 3.8
 Tested up to: 4.3
@@ -14,6 +15,8 @@ This plugin extends myCRED functionality to add different amount of  points for 
 After activating the plugin, a new section must appear in hooks config in myCRED menu, in this section you can configure the amount of points for comments to each post type and the log entry description.
 
 Only post types with support for comments will appear in the config section.
+
+[The plugin is available in Github](https://github.com/Webilop/mycred-post-types-comments). We receive patches to fix bugs and translation files.
 
 TODO:
 - Option to limit points by amount of comments per day/week/month
