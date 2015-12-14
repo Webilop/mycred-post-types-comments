@@ -25,8 +25,8 @@ If you need some help, you can email us at support@webilop.com
 
 == Installation ==
 1. Visit \'Plugins > Add New\'
-2. Search for \'myCRED Post Type Comments\'
-3. Activate myCRED Post Type Comments from your Plugins page.
+2. Search for \'Post Type Comments for myCRED\'
+3. Activate Post Type Comments for myCRED from your Plugins page.
 
 == Screenshots ==
 1. This screenshot illustrates the hook config section. It allows you to introduce the amount of points for each post type and the log entry description.
