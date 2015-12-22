@@ -24,8 +24,8 @@ TODO:
 If you need some help, you can email us at support@webilop.com
 
 == Installation ==
-1. Visit \'Plugins > Add New\'
-2. Search for \'Post Type Comments for myCRED\'
+1. Visit Plugins > Add New
+2. Search for 'Post Type Comments for myCRED'
 3. Activate Post Type Comments for myCRED from your Plugins page.
 
 == Screenshots ==
